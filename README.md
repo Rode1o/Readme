@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/duvanrode1o?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/1352466357972066308&screen_name=duvanrode1o)
 
-## I'm trying to be a Back-end Developer!!
+## I'm studying to be a Back-end Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other quasi-devs and learn together
@@ -31,7 +31,12 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
 ![Duvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rode1o&show_icons=true&theme=chartreuse-dark)
+
+</details>
 
 [twitter]: https://twitter.com/duvanrode1o
 [linkedin]: https://www.linkedin.com/in/duvanrode1o/
