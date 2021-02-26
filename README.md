@@ -30,8 +30,7 @@
 
 ---
 
-[![Duvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rode1o)](https://github.com/Rode1o/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rode1o&show_icons=true&theme=chartreuse-dark)
+![Duvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rode1o&show_icons=true&theme=chartreuse-dark)
 
 [twitter]: https://twitter.com/duvanrode1o
 [linkedin]: https://www.linkedin.com/in/duvanrode1o/
