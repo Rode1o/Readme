@@ -1,5 +1,5 @@
 <div style="display: flex;">
-  <img src="https://github.com/Rode1o/Rode1o/blob/main/Rode1o.gif" alt="👋 Hi there!" title="👋 Hi there! I'm Duvan|Rode1o|" width="1200 px" height="500 px"/>
+  <img src="https://github.com/Rode1o/Rode1o/blob/main/Rode1o.gif" alt="👋 Hi there!" title="👋 Hi there! I'm Duvan|Rode1o|"/>
 </div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/duvanrode1o?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/1352466357972066308&screen_name=duvanrode1o)
