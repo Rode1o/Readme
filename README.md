@@ -32,9 +32,9 @@
 ---
 
 <details>
-  
- ### :zap:GitHub Stats 
-
+ <summary>
+:zap: GitHub Stats 
+  </summary>
 
 ![Duvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rode1o&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rode1o&layout=compact)](https://github.com/Rode1o/github-readme-stats)
