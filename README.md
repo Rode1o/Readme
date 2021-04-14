@@ -37,7 +37,7 @@
   </summary>
 
 ![Duvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rode1o&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rode1o&layout=compact&theme=vue)
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rode1o&layout=compact&theme=vue)
 </details>
 
 [twitter]: https://twitter.com/duvanrode1o
