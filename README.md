@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/duvanrode1o?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/1352466357972066308&screen_name=duvanrode1o)
 
-## I'm studying to be a Back-end Developer!!
+## I'm studying to be a Software-Game Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other quasi-devs and learn together
@@ -36,8 +36,11 @@
 :zap: GitHub Stats 
   </summary>
 
-![Duvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rode1o&show_icons=true&theme=vue)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rode1o&layout=compact&theme=vue)
+<a href="https://frontend.code-inspector.com/public/user/github/Rode1o">
+   <img src="https://code-inspector.com/public/badge/user/github/Rode1o?style=light" alt="code inspector badge" />
+</a>
 </details>
 
 [twitter]: https://twitter.com/duvanrode1o
