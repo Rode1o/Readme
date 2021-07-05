@@ -31,17 +31,7 @@
 
 ---
 
-<details>
- <summary>
-:zap: GitHub Stats 
-  </summary>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rode1o&layout=compact&theme=vue)
-<a href="https://frontend.code-inspector.com/public/user/github/Rode1o">
-   <img src="https://code-inspector.com/public/badge/user/github/Rode1o?style=light" alt="code inspector badge" />
-</a>
-</details>
+<a href="https://github.com/Rode1o"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rode1o&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rode1o&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 [twitter]: https://twitter.com/duvanrode1o
 [linkedin]: https://www.linkedin.com/in/duvanrode1o/
