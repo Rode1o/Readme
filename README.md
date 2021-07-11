@@ -31,7 +31,7 @@
 
 ---
 <div align="center">
-<a href="https://github.com/Rode1o"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rode1o&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,d600ff,bd00ff,001eff,00b8ff&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rode1o&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,00b8ff,00ff9f,00ff9f&theme=graywhite" /></a>
+<a href="https://github.com/Rode1o"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rode1o&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,d600ff,bd00ff,001eff,00b8ff&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rode1o&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,00b8ff,00ff9f,00ff9f&theme=graywhite" /></a>
  </div>
 
 [twitter]: https://twitter.com/duvanrode1o
