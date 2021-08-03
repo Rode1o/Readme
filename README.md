@@ -18,16 +18,7 @@
 
 ## <br />
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [What happens when you type gcc main.c?](https://www.linkedin.com/posts/duvanrode1o_what-happens-when-you-type-gcc-mainc-blog-activity-6762966487465652224-VU7x)<br />
-- [Blog post explaining what are hard and symbolic links on Linux, how to create them, and what is the difference between the two.](https://www.linkedin.com/posts/duvanrode1o_blog-post-explaining-what-are-hard-and-symbolic-activity-6762122308770525184-pjNc)
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://www.linkedin.com/in/duvanrode1o/detail/recent-activity/posts/)
+### ➡️ [Blog posts...](https://www.linkedin.com/in/duvanrode1o/detail/recent-activity/posts/)
 
 ---
 <div align="center">
