@@ -19,6 +19,7 @@
 ## <br />
 
 ### ➡️ [Blog posts...](https://www.linkedin.com/in/duvanrode1o/detail/recent-activity/posts/)
+### 🎮 [Games](https://rode1o.itch.io/)
 
 ---
 <div align="center">
