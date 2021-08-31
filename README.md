@@ -15,6 +15,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Itch" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />][game]
 
 ## <br />
 
@@ -35,7 +36,6 @@
 
 
 ### ➡️ [Blog posts...](https://www.linkedin.com/in/duvanrode1o/detail/recent-activity/posts/)
-### 🎮 [Games](https://rode1o.itch.io/)
 
 ---
 <div align="center">
@@ -45,3 +45,4 @@
 [twitter]: https://twitter.com/duvanrode1o
 [linkedin]: https://www.linkedin.com/in/duvanrode1o/
 [instagram]: https://instagram.com/duvanrode1o
+[game]: https://rode1o.itch.io/
