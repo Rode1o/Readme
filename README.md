@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other quasi-devs and learn together
-- 🥅 2021 Goals: Learn C++
+- 🥅 2022 Goals: Keep Learning C++ and Bluepritns
 - ⚡ Fun fact: I like sports⚽️ ,e-sports🎮, anime , & healthly lifestyle <br />
   (𝓑𝓾𝓽 𝓲 𝔀𝓸𝓷𝓽 𝓻𝓮𝓯𝓾𝓼𝓮 𝓪 𝓭𝓮𝓵𝓲𝓬𝓲𝓸𝓾𝓼 𝓹𝓲𝔃𝔃𝓪🍕)
 
