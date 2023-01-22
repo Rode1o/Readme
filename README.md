@@ -1,6 +1,6 @@
   <img src="https://github.com/Rode1o/Rode1o/blob/main/home.gif" />
 
-[![Twitter Follow]<a href="https://twitter.com/duvanrode1o?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @duvanrode1o</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/duvanrode1o.svg?style=social&label=Follow%20%40duvanrode1o)](https://twitter.com/duvanrode1o)
 
 ## I'm studying to be a Software-Game Developer!!
 
