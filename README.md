@@ -1,12 +1,12 @@
   <img src="https://github.com/Rode1o/Rode1o/blob/main/home.gif" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/duvanrode1o?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/1352466357972066308&screen_name=duvanrode1o)
+[![Twitter Follow]<a href="https://twitter.com/duvanrode1o?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @duvanrode1o</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## I'm studying to be a Software-Game Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other quasi-devs and learn together
-- 🥅 2022 Goals: Keep Learning C++ and Bluepritns
+- 🥅 2023 Goals: Keep Learning C++ and Bluepritns
 - ⚡ Fun fact: I like sports⚽️ ,e-sports🎮, anime , & healthly lifestyle <br />
   (𝓑𝓾𝓽 𝓲 𝔀𝓸𝓷𝓽 𝓻𝓮𝓯𝓾𝓼𝓮 𝓪 𝓭𝓮𝓵𝓲𝓬𝓲𝓸𝓾𝓼 𝓹𝓲𝔃𝔃𝓪🍕)
 
